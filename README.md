@@ -1,5 +1,5 @@
 # Yu-Gi-Oh | Jo-ken-po Edition
-## Esse jogo foi desenvolvido durante o Bootcamp: Potência Tech iFood - Desenvolvimento de Jogos
+## Esse jogo foi desenvolvido durante o Bootcamp
 <p align="center">
   <img src="./.github/preview.gif" alt="Jogo de um Piano Virtual">
 </p>
